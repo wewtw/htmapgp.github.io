@@ -1,2 +1,2 @@
 # wewtw-htmapgp.github.io
-How to Create Your Own Web Page In GitHub.
+How to Create Your Profile Page In GitHub.
